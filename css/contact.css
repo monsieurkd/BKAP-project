@@ -1,0 +1,29 @@
+body {
+    font-family: monospace;
+    background-color: rgb(255, 255, 255);
+    color: #fff;
+  }
+
+  .heading {
+    text-align: center;
+    font-size: 45px;
+    border-bottom: 2px dotted white;
+  }
+
+  .container {
+    background-color: black;
+  }
+
+  .btn-primary {
+    width: 50%;
+    letter-spacing: 2px;
+    transition: all 0.5s ease-in-out;
+    color: darkblue;
+  }
+
+  .btn-primary:hover {
+    transform: scale(1.05);
+  }
+  hr{
+      width: 80%;
+  }
