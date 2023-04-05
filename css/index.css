@@ -3,8 +3,12 @@ body {
   background-color: rgb(255, 255, 255);
   color: #fff;
 }
+a{
+  color: #fff;
+}
  a:hover { color: hsl(208, 74%, 54%) !important;
  }
+ 
 img {
     width: 100% !important;
 }
