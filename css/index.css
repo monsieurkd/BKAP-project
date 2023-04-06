@@ -10,7 +10,7 @@ a{
  }
  
 img {
-    width: 100% !important;
+    width: 100% ;
 }
 footer {
   background-color:  hsl(208, 74%, 54%);
