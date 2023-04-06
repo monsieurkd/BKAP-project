@@ -1,7 +1,8 @@
 body {
     font-family: monospace;
     background-color: rgb(255, 255, 255);
-    color: #fff;
+    color: black;
+    font-size: 25px;
   }
 
   .heading {
@@ -10,8 +11,10 @@ body {
     border-bottom: 2px dotted white;
   }
 
-  .container {
-    background-color: black;
+  .body {
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 30px;
   }
 
   .btn-primary {
